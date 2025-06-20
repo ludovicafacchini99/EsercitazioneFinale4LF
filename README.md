@@ -1,2 +1,2 @@
 # EsercitazioneFinale4LF
-Esercitazione Finale 4 di Ludovica Facchini
+Esercitazione Finale 4 di Ludovica Facchini -- Progetto LookerStudio
